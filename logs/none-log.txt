@@ -1,1 +1,2 @@
 example log file
+you can delete me
